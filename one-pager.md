@@ -22,7 +22,7 @@ Biorę Wasz overflow techniczny w e-commerce. Kiedy macie za dużo wdrożeń alb
 ## Dowód kompetencji
 
 Zamiast opinii, działający kod. Publiczna próbka klienta BaseLinker API v1 (klient z retry, obsługą błędów API, eksport zamówień do CSV, testy, CI):
-repo: [link do repo]
+repo: https://github.com/rodorn/fluxlab-baselinker-integracje
 
 ## Kontakt
 

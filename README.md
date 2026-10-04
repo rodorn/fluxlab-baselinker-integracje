@@ -1,5 +1,7 @@
 # BaseLinker API, próbka integracji (FluxLab)
 
+> Integracje API na zamówienie: [fluxlab.pl/integracje-api](https://fluxlab.pl/integracje-api?utm_source=github&utm_campaign=fluxlab-baselinker-integracje)
+
 Działający klient BaseLinker API v1 w Pythonie plus skrypt eksportu zamówień do CSV. Repo jest próbką kompetencji do oferty podwykonawstwa integracji e-commerce.
 
 ## Co to jest
